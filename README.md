@@ -18,7 +18,7 @@
 <h3 align="left">🔗 My socials :</h3>
 
 <div align="left">
-  <a href="www.linkedin.com/in/rubén-moreno-cifuentes-054b102b1" target="_blank">
+  <a href="https://www.linkedin.com/in/rubén-moreno-cifuentes-054b102b1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
@@ -47,5 +47,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruumc&theme=great-gatsby&hide_border=false&layout=compact" />
 </div>
 
-###
+
+
+<!--
+📝 Créditos por herramientas usadas:
+
+- Visitor badge by: https://visitor-badge.laobi.icu
+- LinkedIn icon by: https://github.com/maurodesouza/profile-readme-generator
+- Devicon icons (R, Python, HTML): https://devicon.dev
+- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
+- GitHub Readme Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats
+- GIF (si aplica): https://giphy.com (verifica la licencia del GIF si es importante su uso comercial)
+
+-->
 
