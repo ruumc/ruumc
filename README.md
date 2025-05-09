@@ -1,20 +1,34 @@
-## Hi, I'm Rubén
+<h1 align="center">Hi, I'm Rubén!</h1>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ruumc&color=FFCC00&label=visits&style=social" />
+</div>
+
+<img align="right" width=200px alt="Imagen" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc1bmxhamVoNG5keWd0MDJnamdsdDUxbWt0ZGh5NG56N3dyM2s0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmXYxTBfJ2BzHjp9aY/giphy.gif" />
+
+
+<img align="left" width=300px alt="Imagen" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5vZ2Y2M3A5a2RsOTJxOWR4ZTFhZDh0am9lZnNiOTNzMzd3MGpvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S8TzUKzRPjepzJx37U/giphy.gif" />
+
+###
 👋 I'm a Psychologist turned Data Scientist passionate about understanding human behavior through the lens of data.<br>
-🔍 With a strong foundation in psychology and advanced training in data analysis, big data, and artificial intelligence, I bridge the gap between human insight and machine learning.<br>
-🧠 My mission: Transform raw data into meaningful stories that drive smarter decisions<br>
+🔍 With a strong foundation in psychology and advanced training in data analysis, big data, and artificial intelligence, I bridge the gap between human insight and machine   learning.<br>
+🧠 My mission: Transform raw data into meaningful stories that drive smarter decisions.<br
+
+
+
+
+<h3 align="left">🔗 My socials :</h3>
+
+<div align="left">
+  <a href="www.linkedin.com/in/rubén-moreno-cifuentes-054b102b1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+</div>
+
 
 ###
 
-<img src="https://raw.githubusercontent.com/ruumc/ruumc/output/snake.svg" alt="Snake animation" />
-
-###
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rubén-moreno-cifuentes-054b102b1) 
-
-##
-<h3 align="left">🛠 Languajes</h3>
+<h3 align="left">🛠 Languajes :</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
@@ -26,7 +40,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
@@ -37,12 +51,3 @@
 
 ###
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ruumc&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ruumc&icon=9&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
