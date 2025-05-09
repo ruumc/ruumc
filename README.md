@@ -4,15 +4,15 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ruumc&color=FFCC00&label=visits&style=social" />
 </div>
 
-<img align="right" width=200px alt="Imagen" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc1bmxhamVoNG5keWd0MDJnamdsdDUxbWt0ZGh5NG56N3dyM2s0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmXYxTBfJ2BzHjp9aY/giphy.gif" />
+<img align="right" width=190px alt="Imagen" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc1bmxhamVoNG5keWd0MDJnamdsdDUxbWt0ZGh5NG56N3dyM2s0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmXYxTBfJ2BzHjp9aY/giphy.gif" />
 
 
-<img align="left" width=300px alt="Imagen" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5vZ2Y2M3A5a2RsOTJxOWR4ZTFhZDh0am9lZnNiOTNzMzd3MGpvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S8TzUKzRPjepzJx37U/giphy.gif" />
+<img align="left" width=290px alt="Imagen" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5vZ2Y2M3A5a2RsOTJxOWR4ZTFhZDh0am9lZnNiOTNzMzd3MGpvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S8TzUKzRPjepzJx37U/giphy.gif" />
 
 ###
 👋 I'm a Psychologist turned Data Scientist passionate about understanding human behavior through the lens of data.<br>
 🔍 With a strong foundation in psychology and advanced training in data analysis, big data, and artificial intelligence, I bridge the gap between human insight and machine   learning.<br>
-🧠 My mission: Transform raw data into meaningful stories that drive smarter decisions.<br
+🧠 My mission: Transform raw data into meaningful stories that drive smarter decisions.<br>
 
 
 
